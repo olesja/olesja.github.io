@@ -1,130 +1,130 @@
-id;IAGA;Name;Country;Institute;GIN;12.03.2018 00.00 Õ;H;Y;X
-1;AAA;Alma Ata;Kazakhstan;IIRK;Edi;-379,7;852;43,2;103,1
-2;ABG;Alibag;India;IIG;Kyo;38185,1;450;18,62;107,13
-3;ABK;Abisko;Sweden;SGU;Edi;11040,6;377;68,36;161,18
-4;AIA;Argentine Islands (Akademik Vernadsky base);Antarctica;NASC;Ott;-539;-108;-65,25;-115,75
-5;AMS;Martin de Vivies-Amsterdam Island;French Southern and Antarctic Lands;EOST;Par;13850,9;759;-37,8;102,43
-6;API;Apia;Western Samoa;MNRE;Edi;32611,94;845;-13,8;-8,22
-7;ARS;Arti;Russia;IG UB RAS, GCRAS;Edi;16215,4;778;56,43;121,43
-8;ASC;Ascension Island;United Kingdom;BGS;Edi;20579,4;620;-7,95;-165,62
-9;ASP;Alice Springs;Australia;GA;Edi;30079,83;644;-23,77;46,12
-10;BDV;Budkov;Czech Republic;ASCR;Edi;20421,07;752;49,08;165,8
-11;BEL;Belsk;Poland;PAS;Edi;18924,9;816;51,84;159,21
-12;BFO;Black Forest;Germany;GGUKS;Edi;20970,21;533;48,33;171,68
-13;BLC;Baker Lake;Canada;GSC;Ott;6850,64;344;64,32;-83,99
-14;BMT;Beijing Ming Tombs;China;IGGCAS;Kyo;27941,55;558;40,3;63,8
-15;BOU;Boulder;United States of America;USGS;Gol;20511,8;471;40,14;-74,76
-16;BOX;Borok;Russia;GCRAS, IPGP;Par;15212,18;865;58,07;141,77
-17;BRD;Brandon;Canada;GSC;Ott;15096,19;341;49,87;-80,03
-18;BRW;Barrow;United States of America;USGS;Gol;8856,9;427;71,32;-23,38
-19;BSL;Stennis Space Center;United States of America;USGS;Gol;23263,49;743;30,35;-90,36
-20;CBB;Cambridge Bay;Canada;GSC;Ott;4804,68;504;69,12;-74,97
-21;CKI;Cocos-Keeling Islands;Australia;GA;Edi;34700,89;715;-12,19;83,17
-22;CLF;Chambon la Foret;France;IPGP;Par;21233,86;528;48,02;177,73
-23;CMO;College;United States of America;USGS;Gol;11978,5;580;64,87;-32,14
-24;CNB;Canberra;Australia;GA;Edi;23132,49;151;-35,32;30,64
-25;CNH;Changchun;China;CEA;Edi;;-86;44,08;55,14
-26;CSY;Casey Station;Antarctica;GA;Edi;-1014,33;450;-66,28;69,47
-27;CTA;Charters Towers;Australia;GA;Edi;31450,7;-21;-20,1;33,7
-28;CYG;Cheongyang;Republic of Korea;KMA;Kyo;30331,3;264;36,37;53,15
-29;CZT;Port Alfred;French Southern and Antarctic Lands;EOST;Par;10436,11;771;-46,43;128,13
-30;DED;Deadhorse;United States of America;USGS;Gol;9191,82;117;70,36;-31,21
-31;DLT;Dalat;Vietnam;VAST, IPGP;Par;40805,31;748;11,94;71,52
-32;DMC;Dome C;Antarctica;EOST, INGV;Par;-8422,13;-69;-75,25;55,83
-33;DOU;Dourbes;Belgium;RMIB;Edi;20146,9;771;50,1;175,4
-34;DRV;Dumont d'Urville;Antarctica;EOST;Par;-1919,83;872;-66,67;39,99
-35;DUR;Duronia;Italy;INGV;Par;55,78;584;41,35;165,53
-36;EBR;Ebro;Spain;OEB;Par;25259,74;461;40,96;179,67
-37;ESK;Eskdalemuir;United Kingdom;BGS;Edi;17579,8;589;55,32;-176,8
-38;EYR;Eyrewell;New Zealand;GNS;Edi;19188,79;626;-43,47;7,61
-39;FCC;Fort Churchill;Canada;GSC;Ott;9619,1;-93;58,76;-85,91
-40;FRD;Fredericksburg;United States of America;USGS;Gol;21080,1;302;38,2;-102,63
-41;FRN;Fresno;United States of America;USGS;Gol;22688,1;675;37,09;-60,28
-42;FUR;Furstenfeldbruck;Germany;LMU;Edi;20982,47;329;48,17;168,72
-43;GAN;Gan;Maldives;ETH;Edi;37904,81;436;0,69;106,85
-44;GCK;Grocka;Serbia;GIG;Edi;99999;-53;44,6;159,2
-45;GDH;Qeqertarsuaq (Godhavn);Greenland;DTU;Kyo;7343,42;687;69,25;-126,47
-46;GNG;Gingin;Australia;GA;Edi;24033,67;411;-31,36;64,29
-47;GUA;Guam;United States of America;USGS;Gol;35845,8;207;13,59;35,13
-48;GUI;Guimar-Tenerife;Spain;IGNS;Par;27568,5;690;28,32;-163,57
-49;HAD;Hartland;United Kingdom;BGS;Edi;19781,9;490;51;-175,52
-50;HBK;Hartebeesthoek;South Africa;SANSA;Edi;13045,3;179;-25,88;152,29
-51;HER;Hermanus;South Africa;SANSA;Edi;10636,7;312;-34,43;160,77
-52;HLP;Hel;Poland;PAS;Edi;17504,4;524;54,61;161,18
-53;HON;Honolulu;United States of America;USGS;Gol;26945,1;719;21,32;-22
-54;HRB;Hurbanovo;Slovakia;SAS;Par;21017,1;630;47,86;161,81
-55;HRN;Hornsund;Norway;PAS;Edi;7789,9;823;77;164,63
-56;HUA;Huancayo;Peru;IGP;Edi;24795,7;526;-12,05;-104,67
-57;HYB;Hyderabad;India;NGRI, GFZ;Edi;39480,96;546;17,4;101,4
-58;IPM;Isla de Pascua Mataveri (Easter Island);Chile;DMC, IPGP;Par;24941,45;759;-27,2;-70,58
-59;IQA;Iqaluit;Canada;GSC;Ott;99999;-10;63,75;-111,48
-60;IRT;Irkutsk;Russia;ISTP SB RAS;Edi;18480,3;720;52,27;75,55
-61;JAI;Jaipur;India;IIG;Kyo;35242,1;594;26,92;104,2
-62;JCO;Jim Carrigan Observatory;United States of America;HAL, BGS;Edi;9082,7;-91;70,36;-31,2
-63;KAK;Kakioka;Japan;JMA;Kyo;29716,62;684;36,23;39,82
-64;KDU;Kakadu;Australia;GA;Edi;35428,58;515;-12,69;47,53
-65;KEP;King Edward Point;South Georgia and the South Sandwich Islands;BGS;Edi;15627,5;486;-54,28;-143,51
-66;KHB;Khabarovsk;Russia;IKIR;Edi;23291,7;119;47,61;45,31
-67;KIV;Kiev;Ukraine;NASU;Edi;19206,9;750;50,72;149,7
-68;KMH;Keetmanshoop;Namibia;SANSA, GFZ;Edi;11102,7;142;-26,54;161,89
-69;KNY;Kanoya;Japan;JMA;Kyo;32467,84;517;31,42;49,12
-70;KOU;Kourou;French Guiana;IPGP;Par;26551,73;494;5,21;-127,27
-71;LER;Lerwick;United Kingdom;BGS;Edi;15050,1;777;60,13;-178,82
-72;LON;Lonjsko Polje;Croatia;UNIZG;Edi;22369,1;297;45,41;163,34
-73;LRM;Learmonth;Australia;GA;Edi;30233,19;686;-22,22;65,9
-74;LVV;Lviv;Ukraine;NASU;Edi;;171;49,9;156,25
-75;LYC;Lycksele;Sweden;SGU;Edi;12925,3;-79;64,6;161,2
-76;LZH;Lanzhou;China;CEA, IPGP;Par;30471,58;605;36,1;76,16
-77;MAB;Manhay;Belgium;RMIB;Edi;20012,1;259;50,3;174,32
-78;MAW;Mawson;Antarctica;GA;Edi;6750,73;531;-67,6;117,12
-79;MBO;Mbour;Senegal;IPGP, IRD;Par;32278,73;809;14,38;-163,03
-80;MCQ;Macquarie Island;Australia;GA;Edi;10710,54;381;-54,5;21,05
-81;MEA;Meanook;Canada;GSC;Ott;13555,15;188;54,62;-66,65
-82;MGD;Magadan;Russia;IKIR;Edi;16748,38;446;60,05;29,27
-83;MMB;Memambetsu;Japan;JMA;Kyo;25798,58;69;43,91;35,81
-84;NAQ;Narsarsuaq;Greenland;DTU;Kyo;11873,92;145;61,16;-134,56
-85;NCK;Nagycenk;Hungary;HAS;Edi;20075,9;219;47,63;163,28
-86;NEW;Newport;United States of America;USGS;Gol;17459;788;48,27;-62,88
-87;NGK;Niemegk;Germany;GFZ;Edi;18869,9;836;52,07;167,32
-88;NUR;Nurmijarvi;Finland;FMI;Edi;14771,6;808;60,51;155,34
-89;NVS;Novosibirsk;Russia;ASB GS SB RAS;Edi;16101,18;-54;54,85;96,77
-90;ORC;Orcadas;Argentina;SMN;Edi;17701,9;798;-60,74;-135,26
-91;OTT;Ottawa;Canada;GSC;Ott;17817,67;464;45,4;-104,45
-92;PAF;Port-aux-Francais;French Southern and Antarctic Lands;EOST;Par;10040,62;591;-49,35;109,74
-93;PAG;Panagjurishte;Bulgaria;NIGGG-BAS, GFZ;Edi;23707,95;655;42,5;155,8
-94;PEG;Pedeli;Greece;IGME;Edi;26444,5;867;38,1;156,1
-95;PET;Paratunka;Russia;IKIR;Edi;21478,35;-55;52,97;21,75
-96;PHU;Phuthuy;Vietnam;VAST, IPGP;Par;38813,17;318;21,03;74,05
-97;PIL;Pilar;Argentina;SMN;Edi;19362,8;350;-31,4;-116,12
-98;PPT;Pamatai;French Polynesia;IPGP;Par;29181,38;321;-17,57;-30,42
-99;PST;Port Stanley;Falkland Islands;BGS;Edi;18208,3;432;-51,7;-122,11
-100;RES;Resolute Bay;Canada;GSC;Ott;99999;632;74,69;-85,11
-101;SBA;Scott Base;Antarctica;GNS;Edi;-10329,49;203;-77,85;13,22
-102;SBL;Sable Island;Canada;BGS;Edi;20847,4;-41;43,93;-119,99
-103;SFS;San Fernando;Spain;RIOA;Par;27607;394;36,67;-174,06
-104;SHU;Shumagin;United States of America;USGS;Gol;19403,6;123;55,35;-19,54
-105;SIT;Sitka;United States of America;USGS;Gol;14914,6;700;57,06;-44,67
-106;SJG;San Juan;United States of America;USGS;Gol;26885,89;185;18,11;-113,85
-107;SOD;Sodankyla;Finland;SOD;Edi;11051,8;652;67,37;153,37
-108;SON;Sonmiani;Pakistan;SUPARCO;Edi;34611,6;365;25,12;113,55
-109;SPG;Saint Petersburg;Russia;GCRAS;Par;14513,2;526;60,54;150,28
-110;SPT;San Pablo-Toledo;Spain;IGNS;Par;26073,88;242;39,55;-175,65
-111;STJ;St John's;Canada;GSC;Ott;18996,12;618;47,6;-127,32
-112;SUA;Surlari;Romania;GIR, GFZ;Par;22598,79;-51;44,68;153,75
-113;TAM;Tamanrasset;Algeria;CRAAG, IPGP;Par;33763,45;164;22,79;174,47
-114;TDC;Tristan da Cunha;Tristan da Cunha;GFZ, DTU;Kyo;9323,14;834;-37,07;-167,69
-115;TEO*;Teoloyucan;Mexico;IG/UNAM;Edi;27514,9;782;19,75;-80,81
-116;THL;Qaanaaq (Thule);Greenland;DTU;Kyo;2865,3;468;77,47;-110,77
-117;THY;Tihany;Hungary;MFGI;Edi;21529,48;38;46,9;162,11
-118;TSU;Tsumeb;Namibia;SANSA;Edi;14201,4;248;-19,2;162,42
-119;TUC;Tucson;United States of America;USGS;Gol;23951,2;264;32,18;-69,27
-120;UPS;Uppsala;Sweden;SGU;Edi;15109,4;797;59,9;162,65
-121;VAL;Valentia;Ireland;IMS;Edi;19509,4;727;51,93;-169,75
-122;VIC;Victoria;Canada;GSC;Ott;18046,75;-59;48,52;-56,58
-123;VNA;Neumayer Station ?;Antarctica;AWI, GFZ;Kyo;18079,07;524;-70,68;188,28
-124;VOS;Vostok;Antarctica;AARI;Kyo;-7287;-75;-78,46;73,17
-125;VSS;Vassouras;Brazil;ON, GFZ;Par;16690,04;535;-22,4;-136,35
-126;WIC;Conrad Observatory;Austria;ZAMG;Edi;21009,89;9;47,93;164,13
-127;WNG;Wingst;Germany;GFZ;Edi;18178,37;240;53,74;170,93
-128;YAK;Yakutsk;Russia;IKFIA, GFZ;Edi;13385,6;372;61,96;50,34
-129;YKC;Yellowknife;Canada;GSC;Ott;8948,36;450;62,48;-65,52
+id,IAGA,Name,Country,Institute,GIN,12.03.2018 00.00 Ã•,H,latitude,longitude
+1,AAA,Alma Ata,Kazakhstan,IIRK,Edi,-379.7,852,43.2,103.1
+2,ABG,Alibag,India,IIG,Kyo,38185.1,450,18.62,107.13
+3,ABK,Abisko,Sweden,SGU,Edi,11040.6,377,68.36,161.18
+4,AIA,Argentine Islands (Akademik Vernadsky base),Antarctica,NASC,Ott,-539,-108,-65.25,-115.75
+5,AMS,Martin de Vivies-Amsterdam Island,French Southern and Antarctic Lands,EOST,Par,13850.9,759,-37.8,102.43
+6,API,Apia,Western Samoa,MNRE,Edi,32611.94,845,-13.8,-8.22
+7,ARS,Arti,Russia,IG UB RAS.Â GCRAS,Edi,16215.4,778,56.43,121.43
+8,ASC,Ascension Island,United Kingdom,BGS,Edi,20579.4,620,-7.95,-165.62
+9,ASP,Alice Springs,Australia,GA,Edi,30079.83,644,-23.77,46.12
+10,BDV,Budkov,Czech Republic,ASCR,Edi,20421.07,752,49.08,165.8
+11,BEL,Belsk,Poland,PAS,Edi,18924.9,816,51.84,159.21
+12,BFO,Black Forest,Germany,GGUKS,Edi,20970.21,533,48.33,171.68
+13,BLC,Baker Lake,Canada,GSC,Ott,6850.64,344,64.32,-83.99
+14,BMT,Beijing Ming Tombs,China,IGGCAS,Kyo,27941.55,558,40.3,63.8
+15,BOU,Boulder,United States of America,USGS,Gol,20511.8,471,40.14,-74.76
+16,BOX,Borok,Russia,GCRAS.Â IPGP,Par,15212.18,865,58.07,141.77
+17,BRD,Brandon,Canada,GSC,Ott,15096.19,341,49.87,-80.03
+18,BRW,Barrow,United States of America,USGS,Gol,8856.9,427,71.32,-23.38
+19,BSL,Stennis Space Center,United States of America,USGS,Gol,23263.49,743,30.35,-90.36
+20,CBB,Cambridge Bay,Canada,GSC,Ott,4804.68,504,69.12,-74.97
+21,CKI,Cocos-Keeling Islands,Australia,GA,Edi,34700.89,715,-12.19,83.17
+22,CLF,Chambon la Foret,France,IPGP,Par,21233.86,528,48.02,177.73
+23,CMO,College,United States of America,USGS,Gol,11978.5,580,64.87,-32.14
+24,CNB,Canberra,Australia,GA,Edi,23132.49,151,-35.32,30.64
+25,CNH,Changchun,China,CEA,Edi,,-86,44.08,55.14
+26,CSY,Casey Station,Antarctica,GA,Edi,-1014.33,450,-66.28,69.47
+27,CTA,Charters Towers,Australia,GA,Edi,31450.7,-21,-20.1,33.7
+28,CYG,Cheongyang,Republic of Korea,KMA,Kyo,30331.3,264,36.37,53.15
+29,CZT,Port Alfred,French Southern and Antarctic Lands,EOST,Par,10436.11,771,-46.43,128.13
+30,DED,Deadhorse,United States of America,USGS,Gol,9191.82,117,70.36,-31.21
+31,DLT,Dalat,Vietnam,VAST.Â IPGP,Par,40805.31,748,11.94,71.52
+32,DMC,Dome C,Antarctica,EOST.Â INGV,Par,-8422.13,-69,-75.25,55.83
+33,DOU,Dourbes,Belgium,RMIB,Edi,20146.9,771,50.1,175.4
+34,DRV,Dumont d'Urville,Antarctica,EOST,Par,-1919.83,872,-66.67,39.99
+35,DUR,Duronia,Italy,INGV,Par,55.78,584,41.35,165.53
+36,EBR,Ebro,Spain,OEB,Par,25259.74,461,40.96,179.67
+37,ESK,Eskdalemuir,United Kingdom,BGS,Edi,17579.8,589,55.32,-176.8
+38,EYR,Eyrewell,New Zealand,GNS,Edi,19188.79,626,-43.47,7.61
+39,FCC,Fort Churchill,Canada,GSC,Ott,9619.1,-93,58.76,-85.91
+40,FRD,Fredericksburg,United States of America,USGS,Gol,21080.1,302,38.2,-102.63
+41,FRN,Fresno,United States of America,USGS,Gol,22688.1,675,37.09,-60.28
+42,FUR,Furstenfeldbruck,Germany,LMU,Edi,20982.47,329,48.17,168.72
+43,GAN,Gan,Maldives,ETH,Edi,37904.81,436,0.69,106.85
+44,GCK,Grocka,Serbia,GIG,Edi,99999,-53,44.6,159.2
+45,GDH,Qeqertarsuaq (Godhavn),Greenland,DTU,Kyo,7343.42,687,69.25,-126.47
+46,GNG,Gingin,Australia,GA,Edi,24033.67,411,-31.36,64.29
+47,GUA,Guam,United States of America,USGS,Gol,35845.8,207,13.59,35.13
+48,GUI,Guimar-Tenerife,Spain,IGNS,Par,27568.5,690,28.32,-163.57
+49,HAD,Hartland,United Kingdom,BGS,Edi,19781.9,490,51,-175.52
+50,HBK,Hartebeesthoek,South Africa,SANSA,Edi,13045.3,179,-25.88,152.29
+51,HER,Hermanus,South Africa,SANSA,Edi,10636.7,312,-34.43,160.77
+52,HLP,Hel,Poland,PAS,Edi,17504.4,524,54.61,161.18
+53,HON,Honolulu,United States of America,USGS,Gol,26945.1,719,21.32,-22
+54,HRB,Hurbanovo,Slovakia,SAS,Par,21017.1,630,47.86,161.81
+55,HRN,Hornsund,Norway,PAS,Edi,7789.9,823,77,164.63
+56,HUA,Huancayo,Peru,IGP,Edi,24795.7,526,-12.05,-104.67
+57,HYB,Hyderabad,India,NGRI.Â GFZ,Edi,39480.96,546,17.4,101.4
+58,IPM,Isla de Pascua Mataveri (Easter Island),Chile,DMC.Â IPGP,Par,24941.45,759,-27.2,-70.58
+59,IQA,Iqaluit,Canada,GSC,Ott,99999,-10,63.75,-111.48
+60,IRT,Irkutsk,Russia,ISTP SB RAS,Edi,18480.3,720,52.27,75.55
+61,JAI,Jaipur,India,IIG,Kyo,35242.1,594,26.92,104.2
+62,JCO,Jim Carrigan Observatory,United States of America,HAL.Â BGS,Edi,9082.7,-91,70.36,-31.2
+63,KAK,Kakioka,Japan,JMA,Kyo,29716.62,684,36.23,39.82
+64,KDU,Kakadu,Australia,GA,Edi,35428.58,515,-12.69,47.53
+65,KEP,King Edward Point,South Georgia and the South Sandwich Islands,BGS,Edi,15627.5,486,-54.28,-143.51
+66,KHB,Khabarovsk,Russia,IKIR,Edi,23291.7,119,47.61,45.31
+67,KIV,Kiev,Ukraine,NASU,Edi,19206.9,750,50.72,149.7
+68,KMH,Keetmanshoop,Namibia,SANSA.Â GFZ,Edi,11102.7,142,-26.54,161.89
+69,KNY,Kanoya,Japan,JMA,Kyo,32467.84,517,31.42,49.12
+70,KOU,Kourou,French Guiana,IPGP,Par,26551.73,494,5.21,-127.27
+71,LER,Lerwick,United Kingdom,BGS,Edi,15050.1,777,60.13,-178.82
+72,LON,Lonjsko Polje,Croatia,UNIZG,Edi,22369.1,297,45.41,163.34
+73,LRM,Learmonth,Australia,GA,Edi,30233.19,686,-22.22,65.9
+74,LVV,Lviv,Ukraine,NASU,Edi,,171,49.9,156.25
+75,LYC,Lycksele,Sweden,SGU,Edi,12925.3,-79,64.6,161.2
+76,LZH,Lanzhou,China,CEA.Â IPGP,Par,30471.58,605,36.1,76.16
+77,MAB,Manhay,Belgium,RMIB,Edi,20012.1,259,50.3,174.32
+78,MAW,Mawson,Antarctica,GA,Edi,6750.73,531,-67.6,117.12
+79,MBO,Mbour,Senegal,IPGP.Â IRD,Par,32278.73,809,14.38,-163.03
+80,MCQ,Macquarie Island,Australia,GA,Edi,10710.54,381,-54.5,21.05
+81,MEA,Meanook,Canada,GSC,Ott,13555.15,188,54.62,-66.65
+82,MGD,Magadan,Russia,IKIR,Edi,16748.38,446,60.05,29.27
+83,MMB,Memambetsu,Japan,JMA,Kyo,25798.58,69,43.91,35.81
+84,NAQ,Narsarsuaq,Greenland,DTU,Kyo,11873.92,145,61.16,-134.56
+85,NCK,Nagycenk,Hungary,HAS,Edi,20075.9,219,47.63,163.28
+86,NEW,Newport,United States of America,USGS,Gol,17459,788,48.27,-62.88
+87,NGK,Niemegk,Germany,GFZ,Edi,18869.9,836,52.07,167.32
+88,NUR,Nurmijarvi,Finland,FMI,Edi,14771.6,808,60.51,155.34
+89,NVS,Novosibirsk,Russia,ASB GS SB RAS,Edi,16101.18,-54,54.85,96.77
+90,ORC,Orcadas,Argentina,SMN,Edi,17701.9,798,-60.74,-135.26
+91,OTT,Ottawa,Canada,GSC,Ott,17817.67,464,45.4,-104.45
+92,PAF,Port-aux-Francais,French Southern and Antarctic Lands,EOST,Par,10040.62,591,-49.35,109.74
+93,PAG,Panagjurishte,Bulgaria,NIGGG-BAS.Â GFZ,Edi,23707.95,655,42.5,155.8
+94,PEG,Pedeli,Greece,IGME,Edi,26444.5,867,38.1,156.1
+95,PET,Paratunka,Russia,IKIR,Edi,21478.35,-55,52.97,21.75
+96,PHU,Phuthuy,Vietnam,VAST.Â IPGP,Par,38813.17,318,21.03,74.05
+97,PIL,Pilar,Argentina,SMN,Edi,19362.8,350,-31.4,-116.12
+98,PPT,Pamatai,French Polynesia,IPGP,Par,29181.38,321,-17.57,-30.42
+99,PST,Port Stanley,Falkland Islands,BGS,Edi,18208.3,432,-51.7,-122.11
+100,RES,Resolute Bay,Canada,GSC,Ott,99999,632,74.69,-85.11
+101,SBA,Scott Base,Antarctica,GNS,Edi,-10329.49,203,-77.85,13.22
+102,SBL,Sable Island,Canada,BGS,Edi,20847.4,-41,43.93,-119.99
+103,SFS,San Fernando,Spain,RIOA,Par,27607,394,36.67,-174.06
+104,SHU,Shumagin,United States of America,USGS,Gol,19403.6,123,55.35,-19.54
+105,SIT,Sitka,United States of America,USGS,Gol,14914.6,700,57.06,-44.67
+106,SJG,San Juan,United States of America,USGS,Gol,26885.89,185,18.11,-113.85
+107,SOD,Sodankyla,Finland,SOD,Edi,11051.8,652,67.37,153.37
+108,SON,Sonmiani,Pakistan,SUPARCO,Edi,34611.6,365,25.12,113.55
+109,SPG,Saint Petersburg,Russia,GCRAS,Par,14513.2,526,60.54,150.28
+110,SPT,San Pablo-Toledo,Spain,IGNS,Par,26073.88,242,39.55,-175.65
+111,STJ,St John's,Canada,GSC,Ott,18996.12,618,47.6,-127.32
+112,SUA,Surlari,Romania,GIR.Â GFZ,Par,22598.79,-51,44.68,153.75
+113,TAM,Tamanrasset,Algeria,CRAAG.Â IPGP,Par,33763.45,164,22.79,174.47
+114,TDC,Tristan da Cunha,Tristan da Cunha,GFZ.Â DTU,Kyo,9323.14,834,-37.07,-167.69
+115,TEO*,Teoloyucan,Mexico,IG/UNAM,Edi,27514.9,782,19.75,-80.81
+116,THL,Qaanaaq (Thule),Greenland,DTU,Kyo,2865.3,468,77.47,-110.77
+117,THY,Tihany,Hungary,MFGI,Edi,21529.48,38,46.9,162.11
+118,TSU,Tsumeb,Namibia,SANSA,Edi,14201.4,248,-19.2,162.42
+119,TUC,Tucson,United States of America,USGS,Gol,23951.2,264,32.18,-69.27
+120,UPS,Uppsala,Sweden,SGU,Edi,15109.4,797,59.9,162.65
+121,VAL,Valentia,Ireland,IMS,Edi,19509.4,727,51.93,-169.75
+122,VIC,Victoria,Canada,GSC,Ott,18046.75,-59,48.52,-56.58
+123,VNA,Neumayer Station ?,Antarctica,AWI.Â GFZ,Kyo,18079.07,524,-70.68,188.28
+124,VOS,Vostok,Antarctica,AARI,Kyo,-7287,-75,-78.46,73.17
+125,VSS,Vassouras,Brazil,ON.Â GFZ,Par,16690.04,535,-22.4,-136.35
+126,WIC,Conrad Observatory,Austria,ZAMG,Edi,21009.89,9,47.93,164.13
+127,WNG,Wingst,Germany,GFZ,Edi,18178.37,240,53.74,170.93
+128,YAK,Yakutsk,Russia,IKFIA.Â GFZ,Edi,13385.6,372,61.96,50.34
+129,YKC,Yellowknife,Canada,GSC,Ott,8948.36,450,62.48,-65.52
